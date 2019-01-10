@@ -2,7 +2,7 @@
 # Important
 
 - Data Scraping is not always legal, you should read the licence of the target website.
-- thesaurus.com is choosen as example, the sample data have not not been used.
+- thesaurus.com is choosen as example, the sample data have not not been used in any applications.
 - The author is not responsible for incorrect use of the sw.
 - Downloading data from thesaurus.com is not allowed.
 
