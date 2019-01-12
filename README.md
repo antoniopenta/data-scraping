@@ -59,6 +59,19 @@ node_modules/casperjs/bin/casperjs thesaurus_wrapper.js --input=list_verb.txt --
 [{"antinomieswords":["agreement","sameness","similarity","stagnation","uniformity","bill","dollar"],"def":"something made different; alteration","pos":"noun","synonimswords":["adjustment","advance","development","difference","diversity","innovation","modification","reversal","revision","revolution","shift","switch","transformation","transition","variation","about-face","addition","break","compression","contraction","conversion","correction","distortion","diversification","metamorphosis","modulation","mutation","novelty","permutation","reconstruction","refinement","remodeling","surrogate","tempering","transmutation","turn","turnover","variance","variety","vicissitude"],"word":"change"},{"antinomieswords":["dollar","bill"],"def":"substitution; replacement","pos":"noun","synonimswords":["switch","turnaround","interchange","conversion","exchange","trade","flip-flop","swap"],"word":"change"}]
 ```
 
+## Donations
+
+![AVSI](https://i.imgur.com/oRnsKLL.jpg)
+
+
+- **If you found this code useful, please condider to make a donation to [AVSI](https://www.avsi.org/en/)**
+    - https://www.avsi.org/en/country/
+    - http://www.avsi-usa.org/donate.html
+    - https://www.avsi.org/it/donation/
+
+Many thanks!
+
+
 ## Authors
 
   *  **Antonio Penta** 
